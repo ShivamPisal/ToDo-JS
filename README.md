@@ -13,7 +13,7 @@ A simple and responsive **task manager** built using **HTML, CSS, and JavaScript
 
 ## 📷 Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 ## 💻 Demo
 
