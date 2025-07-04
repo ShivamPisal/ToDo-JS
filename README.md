@@ -13,22 +13,22 @@ A simple and responsive **task manager** built using **HTML, CSS, and JavaScript
 
 ## 📷 Screenshot
 
-![Screenshot](screenshot.png) <!-- Replace with your actual screenshot file -->
+![Screenshot](screenshot.png)
 
 ## 💻 Demo
 
-[Click to View Live](#) <!-- Add GitHub Pages or Netlify link here if deployed -->
+[Click to View Live](#) 
 
 ## 🛠️ Tech Stack
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript**
 - **LocalStorage API**
 
 ## 📂 Project Structure
 
-No build tools or servers needed — it's 100% frontend!
+- **No build tools or servers needed — it's 100% frontend!**
 
 🌟 To-Do / Improvements
  - Add dark mode toggle 🌙
