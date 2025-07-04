@@ -12,14 +12,14 @@ body {
   justify-content: center;
   align-items: center;
   background: linear-gradient(135deg, #d0e9ff, #ffffff);
-  padding: 1rem;
+  padding: 0.5rem;
 }
 
 .container {
   background-color: #f4f4f4;
   width: 95%;
   max-width: 750px;
-  padding: 20px;
+  padding: 10px;
   border: 2px solid #333;
   border-radius: 16px;
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
@@ -67,9 +67,9 @@ body {
 
 .input-btn {
   height: 2.5rem;
-  width: 5rem;
-  max-width: 5rem;
-  min-width: 5rem;
+  width: 4.5rem;
+  max-width: 4.5rem;
+  min-width: 4.5rem;
   border: none;
   background-color: #61bdff;
   color: black;
@@ -130,7 +130,7 @@ body {
 
 .delete-task {
   min-height: 2rem;
-  min-width: 5rem;
+  min-width: 4.5rem;
   margin-left: 10px;
   padding: 5px;
   border: none;
@@ -164,7 +164,6 @@ body {
 @media (max-width: 600px) {
   .input-field {
     width: 100%;
-    border-radius: 10px;
     font-size: 0.8rem;
     margin-top: 10px ;
   }
@@ -178,7 +177,6 @@ body {
     flex: 1;
     width: auto;
     margin-top: 10px;
-    border-radius: 10px;
   }
 
   .heading {
