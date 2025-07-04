@@ -42,7 +42,6 @@ body {
   width: 100%;
   transition: transform 0.3s;
   justify-content: center;
-  flex-wrap: wrap;
   gap: 5px;
 }
 
