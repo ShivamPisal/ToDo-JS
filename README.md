@@ -17,7 +17,7 @@ A simple and responsive **task manager** built using **HTML, CSS, and JavaScript
 
 ## 💻 Demo
 
-[Click to View Live](#) 
+[Click to View Live](https://shivampisal.github.io/ToDo-JS/) 
 
 ## 🛠️ Tech Stack
 
