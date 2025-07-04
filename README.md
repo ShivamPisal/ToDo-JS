@@ -1,3 +1,4 @@
+A simple and responsive task manager built using HTML, CSS, and JavaScript, with support for localStorage to persist tasks even after page reload.
 # 📝 Task Manager Web App
 
 A simple and responsive **task manager** built using **HTML, CSS, and JavaScript**, with support for **localStorage** to persist tasks even after page reload.
